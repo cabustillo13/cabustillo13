@@ -1,7 +1,5 @@
-### Hi there 👋
-
-- Soy estudiante de Ingeniería Mecatrónica en la Universidad Nacional Cuyo.
-- 📫 Mi mail: cabustillo13@hotmail.com
+### Hola 👋
+- Me gusta aprender sobre cómo funcionan las cosas y hacia a dónde se dirigen en el futuro.
 - Mendoza , Argentina.
 - 23 años.
 
