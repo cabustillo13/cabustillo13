@@ -1,5 +1,5 @@
 ### Hola 👋
-- Me gusta aprender sobre cómo funcionan las cosas y hacia a dónde se dirigen en el futuro.
+- Me gusta aprender sobre cómo funcionan las cosas y hacia dónde se dirigen en el futuro.
 - Mendoza , Argentina.
 - 23 años.
 
