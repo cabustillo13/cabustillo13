@@ -1,4 +1,4 @@
 ### Hello World! 👋
-- Apasionado por el procesamiento de imágenes.
+- Apasionado por el Procesamiento de Imágenes.
 - Actualmente participo en las comunidades Open Source y Python. 
-- Considero que es intercambiar conocimiento nos hace crecer y mejorar como personas cada día.
+
