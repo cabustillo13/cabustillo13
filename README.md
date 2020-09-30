@@ -1,4 +1,5 @@
 ### Hello World! 👋
-- Apasionado por el Procesamiento de Imágenes.
-- Actualmente participo en las comunidades Open Source y Python. 
+- Apasionado por el Procesamiento de Imágenes e Inteligencia Artificial.
+- Actualmente participo en las comunidades Python Argentina, Python en Español y otras comunidas pitónicas.
+- Open Source Contributor.
 
