@@ -2,6 +2,7 @@
 - Apasionado por el Procesamiento de Imágenes e Inteligencia Artificial.
 - Actualmente participo en comunidades de Software Libre y Python en LATAM.
 - Open Source Contributor.
+- Ingeniería Mecatrónica en UNCuyo.
 - **Linkedin:** [Carlos Bustillo](https://www.linkedin.com/in/carlos-bustillo-74514b1b6/)
 
 #### ¿Te perdiste alguna de mis charlas o quieres volverlas a ver en Youtube? :raised_hands: 
