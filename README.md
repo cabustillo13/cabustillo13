@@ -1,9 +1,10 @@
 ### Hello World! 👋
-- Ingeniería Mecatrónica en UNCuyo.
 - Apasionado por el Procesamiento de Imágenes e Inteligencia Artificial.
+- Ingeniería Mecatrónica en UNCuyo.
 - Actualmente participo en comunidades de Software Libre y Python en LATAM.
 - Open Source Contributor.
-- **Linkedin:** [Carlos Bustillo](https://www.linkedin.com/in/carlos-bustillo-74514b1b6/)
+
+### :rocket: Linkedin: [Carlos Bustillo](https://www.linkedin.com/in/carlos-bustillo-74514b1b6/) 
 
 #### ¿Te perdiste alguna de mis charlas o quieres volverlas a ver en Youtube? :raised_hands: 
 - [Charlas, Webinars y Workshops en 2020](https://www.youtube.com/playlist?list=PLG6E5yCiAI4KgwPiTSxvMSc3vtXnPIM_3)
