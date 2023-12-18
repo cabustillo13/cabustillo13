@@ -6,4 +6,4 @@ I've worked in diverse fields such as Nuclear Engineering, Fintech and Tradition
 
 **Microsoft Learn Student Ambassador | Open Source Contributor 💻🙌**
 
-### :rocket: Linkedin: [Carlos Bustillo](https://www.linkedin.com/in/carlos-bustillo-74514b1b6/) 
+### 🚀 Linkedin: [Carlos Bustillo](https://www.linkedin.com/in/carlos-bustillo-74514b1b6/) 
